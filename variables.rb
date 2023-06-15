@@ -7,3 +7,10 @@ favorite game series = "Zelda"
 favorite current fighter = "Charles Oliveira"
 
 current reading = "Horus Rising"
+
+age = "28"
+
+year born = "1994"
+
+year of military seperation = "2020
+"
