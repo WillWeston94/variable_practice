@@ -12,5 +12,9 @@ age = "28"
 
 year born = "1994"
 
-year of military seperation = "2020
-"
+year of military seperation = "2020"
+
+weight = "155.5"
+
+height = "70.5"
+
