@@ -1,23 +1,33 @@
 name = "Will"
 
-favorite food = "Sushi"
+food = "Sushi"
 
-favorite game series = "Zelda"
+food = "Dolma"
 
-favorite current fighter = "Charles Oliveira"
+game_series = "Zelda"
 
-current reading = "Horus Rising"
+fighter = "Charles Oliveira"
+
+reading = "Titanicus"
+
+reading = "Horus Rising"
 
 age = 28
 
-year born = 1994
+year_born = 1994
 
-year of military seperation = 2020
+military_seperation = 2020
 
 weight = 155.5
 
 height = 70.5
 
-enjoying turing = true
+enjoys_class = true
 
-deposit paid = true
+deposit_paid = true
+
+print = "My name is #{name} and my favorite current fighter is #{fighter}."
+
+print = "I am currently listening to the audiobook version of #{reading}."
+
+print = "I am #{age} years old"
